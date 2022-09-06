@@ -8,5 +8,5 @@ console.log(errorParagraph)
 
 function Purchase() {
     console.log("onclick")
-    errorParagraph.textContent = "something went wrong, pleaase try again"
+    errorParagraph.textContent = "something went wrong, pleaase try again!"
 }
